@@ -1,4 +1,4 @@
-# Kowri Fintech Application - Decision Analysis
+# Kowri Fintech Application - Mathematical Modeling
 
 ## Overview
 
